@@ -11,3 +11,13 @@ div {
   p {
     color: red;
   }
+
+  @font-face {
+    font-family:'Memphis River' ;
+    src: url();
+  }
+
+  img {
+    height: auto;
+    width: 500px;
+  }
